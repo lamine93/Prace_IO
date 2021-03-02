@@ -1,0 +1,388 @@
+# Ce fichier viminfo a été généré par Vim 8.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+|2,0,1614723588,,"wq"
+:q
+|2,0,1614692957,,"q"
+:WQ
+|2,0,1614614324,,"WQ"
+:w
+|2,0,1614612868,,"w"
+:Q
+|2,0,1614604630,,"Q"
+:wq!
+|2,0,1614604152,,"wq!"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+""-	CHAR	0
+	N
+|3,1,36,0,1,0,1614613683,"N"
+
+# Marques dans le fichier :
+'0  1  19  ~/.git/HEAD
+|4,48,1,19,1614723588,"~/.git/HEAD"
+'1  1  19  ~/.git/HEAD
+|4,49,1,19,1614723582,"~/.git/HEAD"
+'2  1  18  ~/.git/HEAD
+|4,50,1,18,1614723141,"~/.git/HEAD"
+'3  1  18  ~/.git/HEAD
+|4,51,1,18,1614723141,"~/.git/HEAD"
+'4  1  18  ~/.git/HEAD
+|4,52,1,18,1614723123,"~/.git/HEAD"
+'5  1  18  ~/.git/HEAD
+|4,53,1,18,1614723123,"~/.git/HEAD"
+'6  1  18  ~/.git/HEAD
+|4,54,1,18,1614723123,"~/.git/HEAD"
+'7  1  18  ~/.git/HEAD
+|4,55,1,18,1614723123,"~/.git/HEAD"
+'8  1  18  ~/.git/HEAD
+|4,56,1,18,1614723088,"~/.git/HEAD"
+'9  1  18  ~/.git/HEAD
+|4,57,1,18,1614723088,"~/.git/HEAD"
+
+# Liste de sauts (le plus récent en premier) :
+-'  1  19  ~/.git/HEAD
+|4,39,1,19,1614723588,"~/.git/HEAD"
+-'  1  19  ~/.git/HEAD
+|4,39,1,19,1614723582,"~/.git/HEAD"
+-'  1  18  ~/.git/HEAD
+|4,39,1,18,1614723141,"~/.git/HEAD"
+-'  1  18  ~/.git/HEAD
+|4,39,1,18,1614723123,"~/.git/HEAD"
+-'  1  18  ~/.git/HEAD
+|4,39,1,18,1614723088,"~/.git/HEAD"
+-'  1  19  ~/.git/HEAD
+|4,39,1,19,1614720793,"~/.git/HEAD"
+-'  1  19  ~/.git/HEAD
+|4,39,1,19,1614720663,"~/.git/HEAD"
+-'  1  19  ~/.git/HEAD
+|4,39,1,19,1614720657,"~/.git/HEAD"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+-'  58  64  ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+|4,39,58,64,1614712340,"~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.git/HEAD
+	*	1614723585	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
+> ~/netCDF/hands_on/Solutions/F90/hands_on_par_write.f90
+	*	1614712336	0
+	"	58	64
+
+> ~/netCDF/examples/F90/example_par_write.f90
+	*	1614696245	0
+	"	19	0
+
+> ~/netCDF/examples/F90/example_par_read.f90
+	*	1614695641	0
+	"	34	1
+
+> ~/netCDF/hands_on/F90/hands_on_par_read.f90
+	*	1614695632	0
+	"	64	0
+
+> ~/netCDF/hands_on/F90/hands_on_par_write.f90
+	*	1614695252	0
+	"	135	0
+
+> ~/netCDF/netcdf.pdf
+	*	1614693733	0
+	"	42	0
+
+> ~/netCDF/examples/F90/job.slurm
+	*	1614693402	0
+	"	3	37
+	^	3	38
+	.	3	38
+	+	3	38
+
+> ~/netCDF/examples/F90/example_par_
+	*	1614692949	0
+	"	1	0
+
+> ~/parallel_HDF5_hands-on/phdf5-1/F90/phdf5_ex1.f90
+	*	1614692851	0
+	"	109	0
+
+> ~/parallel_HDF5_hands-on/phdf5-1/F90/job_poincare
+	*	1614678922	0
+	"	24	0
+
+> ~/parallel_HDF5_hands-on/phdf5-1/README
+	*	1614678478	0
+	"	12	0
+
+> ~/HDF5_hands-on/hdf5_4/F90/solution/hdf5_ex4.f90
+	*	1614637261	0
+	"	76	1
+
+> ~/HDF5_hands-on/hdf5_4/F90/hdf5_ex4.f90
+	*	1614636099	0
+	"	46	4
+
+> ~/HDF5_hands-on/hdf5_3/F90/solution/hdf5_ex3.f90
+	*	1614635845	0
+	"	99	0
+
+> ~/HDF5_hands-on/hdf5_3/README
+	*	1614633707	0
+	"	8	0
+
+> ~/HDF5_hands-on/hdf5_2/F90/solution/hdf5_ex2.f90
+	*	1614633596	0
+	"	137	4
+	^	118	7
+
+> ~/HDF5_hands-on/hdf5_2/F90/hdf5_ex2.f90
+	*	1614633353	0
+	"	92	5
+
+> ~/HDF5_hands-on/hdf5_1/F90/hdf5_ex1.f90
+	*	1614633074	0
+	"	92	4
+	^	34	58
+	.	34	57
+	+	21	40
+	+	24	38
+	+	27	33
+	+	29	31
+	+	30	24
+	+	33	13
+	+	34	6
+	+	35	8
+	+	36	10
+	+	38	7
+	+	39	12
+	+	40	10
+	+	36	29
+	+	33	8
+	+	36	52
+	+	24	38
+	+	26	33
+	+	29	24
+	+	31	13
+	+	32	7
+	+	33	7
+	+	34	15
+	+	33	11
+	+	34	13
+	+	35	10
+	+	36	13
+	+	37	8
+	+	34	57
+	+	55	16
+	+	28	31
+	+	21	40
+	+	51	28
+	+	34	57
+	+	40	47
+	+	34	57
+
+> ~/HDF5_hands-on/hdf5_2/README
+	*	1614618204	0
+	"	6	0
